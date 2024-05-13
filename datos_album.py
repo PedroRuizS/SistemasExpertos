@@ -1,0 +1,2 @@
+album_valor = [3.36, 4.14 ,4.26, 4.17,3.61,3.95,3.66,3.94,3.43,3.82,4.25]
+album_nombre = ["hyperdrama","souvlaki","kid a","the glow pt2","vidrio","de todas las flores","isolation","sound of silver","astroworld","syro","loveless"]
